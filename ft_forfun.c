@@ -6,8 +6,6 @@ int	ft_int(int i)
 	int	tmp;
 
 	leng = 0;
-	if (i == 0)
-		return (write(1, "0", 1));
 	if (i == -2147483648)
 		return (write(1, "-2147483648", 11));
 	if (i < 0)
