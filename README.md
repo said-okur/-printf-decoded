@@ -1,1 +1,1 @@
-#Reproducing of printf function.
+# Reproducing the printf function.
